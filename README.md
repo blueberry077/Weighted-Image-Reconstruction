@@ -40,7 +40,7 @@ More detailed math: [Weighted Image Reconstruction.](https://www.mdaleba.com/wir
 * **Operating System:** Windows (uses Win32 API and GDI).
 * **Compiler:** Any C compiler targeting Windows (e.g., GCC/MinGW, MSVC, Clang).
 * **Make sure those files are inside the directory:** 
-  * [`stb_image.h`](https://github.org/nothings/stb/blob/master/stb_image.h) placed in the same directory.
+  * [`stb_image.h`](https://github.com/nothings/stb/blob/master/stb_image.h) placed in the same directory.
   * An image file named `parrots.png` ($300 \times 200$) in the execution directory.
 
 ---
