@@ -29,7 +29,9 @@ Where:
 
 And the resulting color $C$ at pixel $(x, y)$ is:
 
-$$C = \sum_{i=0}^{N-1} w_i C_i$$
+$$C = \sum_{i=0}^{N-1} w_i \cdot C_i$$
+
+More detailed math: [Weighted Image Reconstruction.](https://www.mdaleba.com/wir/)
 
 ---
 
