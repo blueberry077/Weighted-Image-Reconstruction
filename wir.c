@@ -21,9 +21,9 @@
 #define WIN_WID (300)
 #define WIN_HEI (400)
 
-#define P_EXPONENT (3)            // Change the p exponent for influence (i: 3)
-#define INI_POINTS (10000)        // Change the number of initial points (i: 10000)
-#define PIXELS_PER_FRAMES (200)   // Change the number of pixels processed during a frame (i: 200)
+#define P_EXPONENT (1)           // Change the p exponent for influence (i: 3)
+#define INI_POINTS (1000)        // Change the number of initial points (i: 10000)
+#define PIXELS_PER_FRAMES (200)  // Change the number of pixels processed during a frame (i: 200)
 
 LRESULT CALLBACK WindowProc(HWND h, UINT m, WPARAM w, LPARAM l);
 
